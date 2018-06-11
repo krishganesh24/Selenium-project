@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [LeadAll]" parallel="classes">
+  <test thread-count="2" name="FT_All_Lead_Modules(failed)" parallel="classes">
+    <classes>
+      <class name="leaf.Lead.MergeLead">
+        <methods>
+          <include name="mergelead"/>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- leaf.Lead.MergeLead -->
+      <class name="leaf.Lead.EditLead">
+        <methods>
+          <include name="editlead"/>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- leaf.Lead.EditLead -->
+      <class name="leaf.Lead.CreateLead">
+        <methods>
+          <include name="createLead"/>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- leaf.Lead.CreateLead -->
+      <class name="leaf.Lead.DeleteLead">
+        <methods>
+          <include name="login"/>
+          <include name="deleteLead"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- leaf.Lead.DeleteLead -->
+    </classes>
+  </test> <!-- FT_All_Lead_Modules(failed) -->
+</suite> <!-- Failed suite [LeadAll] -->

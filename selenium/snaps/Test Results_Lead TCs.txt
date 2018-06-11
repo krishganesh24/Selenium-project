@@ -1,0 +1,93 @@
+1526709039479	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1526709039510	geckodriver	INFO	Listening on 127.0.0.1:17095
+1526709041091	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THENMO~1\\AppData\\Local\\Temp\\rust_mozprofile.BVdFimK7bisA"
+1526709044016	Marionette	INFO	Enabled via --marionette
+1526709049514	Marionette	INFO	Listening on port 50327
+1526709049608	Marionette	WARN	TLS certificate errors will be ignored for this session
+May 19, 2018 11:20:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+The Browser firefox launched successfully
+The data DemoSalesManager is entered successfully
+The data crmsfa is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> class name: decorativeSubmit] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: CRM/SFA] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Create Lead] is clicked successfully
+The data infosys is entered successfully
+The data Ganesh is entered successfully
+The data krishnamoorthy is entered successfully
+The Cold Call is selected from dropdwown
+The 2 is selected from dropdwown
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> class name: smallSubmit] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Edit] is clicked successfully
+The data Ganesh is entered successfully
+The data krishnamoorthy is entered successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> class name: smallSubmit] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //a[text()='Find Leads']] is clicked successfully
+The data 10018 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //button[text()='Find Leads']] is clicked successfully
+ waiting for 30 secs
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//a[@class='linktext'])[4]] is clicked successfully
+Page title is verified
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Edit] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The data Edgeverve is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> class name: smallSubmit] is clicked successfully
+ Expected data is not Updated
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //a[text()='Find Leads']] is clicked successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Phone] is clicked successfully
+The data 45645645 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //button[text()='Find Leads']] is clicked successfully
+ waiting for 30 secs
+lead ID of First Resulting lead=10072
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//a[@class='linktext'])[4]] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Delete] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //a[text()='Find Leads']] is clicked successfully
+The data 10072 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //button[text()='Find Leads']] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+ Expected Error message is displayed
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Merge Leads] is clicked successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//img[@alt='Lookup'])[1]] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+Moved to child window
+The data 10018 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//button[@class='x-btn-text'])[1]] is clicked successfully
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+ waiting for 30 secs
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: ((//div[@class='x-grid3-cell-inner x-grid3-col-partyId'])/a[@class='linktext'])[1]] is clicked successfully
+Moved to Parent window
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//img[@alt='Lookup'])[2]] is clicked successfully
+Moved to child window
+The data 10022 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: (//button[@class='x-btn-text'])[1]] is clicked successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: ((//div[@class='x-grid3-cell-inner x-grid3-col-partyId'])/a[@class='linktext'])[1]] is clicked successfully
+Moved to Parent window
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Merge] is clicked successfully
+Alert is successfully Accepted
+JavaScript warning: http://leaftaps.com/opentaps_js/dojo_0.90/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> link text: Find Leads] is clicked successfully
+The data 10018 is entered successfully
+The Element [[FirefoxDriver: firefox on XP (95230905-2322-4c64-aae0-ed95a934c4e5)] -> xpath: //button[text()='Find Leads']] is clicked successfully
+ Expected Error message is displayed
+[Parent 18468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x490006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+The Current browser closed successfully

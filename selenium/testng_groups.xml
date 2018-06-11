@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LeadSuite">
+  <test  name="EndtoEndTest">
+  <groups>
+  <run>
+  <include name ="common"></include>
+  <include name ="smoke"></include>
+  <include name="sanity"></include>
+  <include name ="Regression"></include>
+   </run>
+      </groups>
+    <classes>
+      <class name="testNG.CreateLead"/>
+      <class name="testNG.DublicateLead"/>
+      <class name="testNG.DeleteLead"/>
+      <class name="testNG.EditLead"/>
+      </classes>
+      
+  </test> <!-- EndtoEndTest -->
+</suite> <!-- LeadSuite -->

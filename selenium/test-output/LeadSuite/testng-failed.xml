@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LeadSuite]">
+  <test thread-count="5" name="EndtoEndTest(failed)">
+    <groups>
+      <run>
+        <include name="common"/>
+        <include name="smoke"/>
+        <include name="sanity"/>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testNG.DublicateLead">
+        <methods>
+          <include name="duplicateLead"/>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- testNG.DublicateLead -->
+      <class name="testNG.EditLead">
+        <methods>
+          <include name="editlead"/>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- testNG.EditLead -->
+      <class name="testNG.DeleteLead">
+        <methods>
+          <include name="login"/>
+          <include name="deleteLead"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- testNG.DeleteLead -->
+    </classes>
+  </test> <!-- EndtoEndTest(failed) -->
+</suite> <!-- Failed suite [LeadSuite] -->

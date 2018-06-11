@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Lead]" parallel="classes">
+  <test thread-count="2" name="FT_Del&amp;Merge(failed)" parallel="classes">
+    <classes>
+      <class name="leaf.Lead.MergeLead">
+        <methods>
+          <include name="mergelead"/>
+        </methods>
+      </class> <!-- leaf.Lead.MergeLead -->
+    </classes>
+  </test> <!-- FT_Del&Merge(failed) -->
+</suite> <!-- Failed suite [Lead] -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="LeadAll" parallel="classes">
+  <test name="FT_All_Lead_Modules">
+    <classes>
+       <class name="leaf.Lead.CreateLead"/>
+      <class name="leaf.Lead.DeleteLead"/>
+      <class name="leaf.Lead.EditLead"/>
+       <class name="leaf.Lead.MergeLead"/>
+      <class name="leaf.Lead.DublicateLead"/>
+    </classes>
+  </test> <!-- FT_All_Lead_Modules -->
+</suite> <!-- LeadAll -->

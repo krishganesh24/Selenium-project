@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [LeadTaps]">
+  <test thread-count="5" verbose="5" name="FunctionalTest(failed)">
+    <classes>
+      <class name="week5homework.TestNgPackageTes">
+        <methods>
+          <include name="login"/>
+          <include name="loginchrome"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- week5homework.TestNgPackageTes -->
+    </classes>
+  </test> <!-- FunctionalTest(failed) -->
+</suite> <!-- Failed suite [LeadTaps] -->
