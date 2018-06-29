@@ -13,7 +13,6 @@ public class ReverseStringAndNumber {
 		//System.out.println();
 	}
 
-
 	public static void revNum(int number) {
 
 		if(number<10) {

@@ -31,9 +31,6 @@ public class ExcelTest {
 		System.out.println(Value1);
 		
 		
-		
-		
-		
 		wbook.close();
 				
 			}

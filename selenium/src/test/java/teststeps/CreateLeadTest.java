@@ -21,7 +21,7 @@
 //		driver.get("http://leaftaps.com/opentaps");
 //	}
 //
-//	@And("Type the username as (*.*)")
+//	@And("Type the username as (.*)")
 //	public void type_Username_for_CreateLead(String uname) {
 //
 //		driver.findElementById("username").sendKeys(uname);

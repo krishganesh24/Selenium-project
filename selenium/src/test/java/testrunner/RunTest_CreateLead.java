@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @CucumberOptions(features="src/test/java/features/CreateLead.Feature",
-glue="teststeps",dryRun= false)
+glue="teststeps",dryRun= true)
 @RunWith(Cucumber.class)
 public class RunTest_CreateLead {
 

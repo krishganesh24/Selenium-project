@@ -3,6 +3,7 @@ package week2day1;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.Select;
 
 public class IrctcRegistration {
@@ -17,6 +18,7 @@ public class IrctcRegistration {
 		System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 
 		ChromeDriver driver = new ChromeDriver();
+		
 
 		// Open the chrome browser//
 

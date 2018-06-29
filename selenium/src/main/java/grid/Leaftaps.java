@@ -21,7 +21,7 @@ public class Leaftaps {
 		dc.setPlatform(Platform.WINDOWS);
 		
 		RemoteWebDriver driver = new RemoteWebDriver(
-				new URL("http://10.0.0.89:4444/wd/hub"), dc);
+				new URL("http://192.168.43.220:4444/wd/hub"), dc);
 		
 		
 		//Load the URL
